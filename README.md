@@ -1,1 +1,1 @@
-git clone https://github.com/romanku/boilerplates.git --single-branch -b <branch-name>
+git clone https://github.com/romanku/boilerplates.git --single-branch -b `<branch-name>`
